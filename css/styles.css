@@ -1,0 +1,54 @@
+.hero-image{
+  position: relative;
+  }
+  .hero-image .wrap img{
+  width: 100%;
+  height: 100vh;
+}
+.hero-image .content {
+  background-color: rgba(0,0,0,0.3);
+  position: absolute;
+  top: 30%;
+  left: 5%;
+  color: white;
+  font-size: large;
+}
+.hero-image .content h1{
+  font-size: 300%;
+}
+.about{
+  text-align: center;
+}
+.abt-icon{
+  color: black;
+  display: inline-block;
+  width: 70px;
+  text-align: center;
+}
+.contact{
+  background-color: #d3d3d3;
+}
+.contact form input{
+  background: none;
+  border-bottom: #A9A9A9 solid 1px;
+}
+.contact form button{
+  color: white;
+  background-color: black;
+}
+.footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.footer .fa{
+  color: white;
+  display: inline-block;
+  width: 30px;
+}
+.footer .fa:hover{
+  color: #d3d3d3;
+  display: inline-block;
+  width: 30px;
+
+}
